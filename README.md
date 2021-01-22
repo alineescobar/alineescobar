@@ -1,11 +1,10 @@
-### Olá ☕
+### Hi there!
 
-Meu nome é Aline, eu tenho 26 anos e sou desenvolvedora 💻 migrei da área da engenharia para TI e me sinto bem mais feliz trabalhando com desenvolvimento. Gosto de ouvir podcasts, de diversos assuntos e estou sempre aberta a ouvir novos programas 🎙️
+My name is Aline, I'm a 26 years old who loves cats 🐈, podcasts 🎙️ & coffee ☕ ~(and drink a lot of coca-cola)~
 
-atualmente estudo swift nas horas vagas e gosto de estudar linguagens (não apenas de programação)
+I love learning new languages, not only programming languages! 
 
-sou tutora de dois gatinhos 🐈 lindos e estou tentando aprender a tocar baixo 🎸
-
+Currently i'm learning to play bass as a hobby 🎸
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-osana-escobar-77425b184/)](https://www.linkedin.com/in/aline-osana-escobar-77425b184/)
 <!--
