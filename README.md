@@ -9,6 +9,14 @@ My name is Aline, I'm a 26 years old who loves cats 🐈, podcasts 🎙️ & cof
 
 Currently i'm learning to play bass as a hobby 🎸
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineescobar&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alineescobar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-osana-escobar-77425b184/)](https://www.linkedin.com/in/aline-osana-escobar-77425b184/)
 
