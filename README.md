@@ -13,8 +13,6 @@ Currently i'm learning to play bass as a hobby 🎸
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineescobar&hide=java,html,css&theme=dark)](https://github.com/alineescobar/github-readme-stats)
-
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alineescobar&theme=dark)](https://github.com/alineescobar/github-readme-stats)
 
 
