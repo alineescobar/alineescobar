@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/alineescobar/alineescobar/main/caos.png" width="20%" alt="Desenho de um gato pelo siames" align="left"/>
 <img src="https://raw.githubusercontent.com/alineescobar/alineescobar/main/peralta.png" width="20%" alt="Desenho de um gato pelo frajola" align="right"/>
 
-My name is Aline, I'm a 26 years old who loves cats 🐈, podcasts 🎙️ & coffee ☕ ~(and drink a lot of coca-cola)~
+My name is Aline, I'm a 28 years old who loves cats 🐈, podcasts 🎙️ & coffee ☕ ~(and drink a lot of coca-cola)~
 
 📖 I love learning new languages, not only programming languages!
 
